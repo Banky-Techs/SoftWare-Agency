@@ -177,7 +177,7 @@ h6 {
 }
 .bt-header .bt-nav .bt-nav__brand {
   display: block;
-  max-width: 100px;
+  max-width: 120px;
 }
 /* Buttons */
 .bt-button {
@@ -349,8 +349,11 @@ h6 {
 }
 .bt-work-card .bt-work-card__image {
   display: block;
-  max-height: 500px;
+  height: 400px;
   width: 100%;
-  object-fit: cover;
+  background-size: cover;
+  background-position: center center;
   margin-bottom: 1rem;
+  border-radius: 20px;
+  background-color: #2d2d2d;
 }
