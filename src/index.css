@@ -352,7 +352,7 @@ h6 {
   height: 400px;
   width: 100%;
   background-size: cover;
-  background-position: center center;
+  background-position: center center !important;
   margin-bottom: 1rem;
   border-radius: 20px;
   background-color: #2d2d2d;
