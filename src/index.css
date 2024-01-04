@@ -252,6 +252,7 @@ h6 {
   min-height: 250px;
   background: var(--btDark2);
   border-radius: 25px;
+  padding: 1rem;
 }
 .bt-section-gradient::before {
   content: "";
